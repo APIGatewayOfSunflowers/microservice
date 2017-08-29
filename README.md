@@ -1,8 +1,8 @@
-# microservice
+# About project microservice
 
-microservice to discovery and register serivices.
+In microservice we can simply implement services' discovery and register.
 
-# Server 
+# Server and Provider notes
 
 You'd better start com.boonya.service.discovery.MicroserviceDiscoveryEurekaApplication at first.
 
